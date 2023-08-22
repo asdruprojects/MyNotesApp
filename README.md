@@ -76,7 +76,7 @@ Algunos de los aportes de nuestros participantes en este repositorio y el reposi
 | OCR desde dentro de una nota | [CLEAN-11](https://github.com/omarlopezoficial/NoteApp-Frontend/) |
 | Geolocalizacion | [CLEAN-26](https://github.com/omarlopezoficial/NoteApp-Frontend/) |
 
-### Asdrubal Asensio
+### Asdrubal Asencio
 
 | Actividades                      | Rama            |
 |----------------------------------|----------------:|
